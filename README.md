@@ -1,4 +1,4 @@
-# Ch2.1
+# Module 02
 # Exercise: Clone a Git Repository and Familiarize Yourself with its Internal Files
 
 ## Step 1
